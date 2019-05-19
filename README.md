@@ -2,7 +2,6 @@
 List of shows I watched created using Create-react-app &amp; styled using Tachyons.
 <h2>Info</h2>
 Created to learn<hr>
-Created with create-react-app, styled using tachyons.
 Project created using create-react-app<hr>
 <p>This is the cards of shows I've watched which contains name,poster,plot, imdb rating and link to watch them for free.
 I by no means support piracy.Please watch these shows genuinely. It also has star rating widget.</p><hr>
